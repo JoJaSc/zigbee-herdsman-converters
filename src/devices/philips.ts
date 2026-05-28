@@ -4084,7 +4084,7 @@ export const definitions: DefinitionWithExtend[] = [
         zigbeeModel: ["LWA019"],
         model: "9290024691",
         vendor: "Philips",
-        description: "Hue white single filament bulb A19 E26 with Bluetooth (1100 Lumen)",
+        description: "Hue White Bulb A19 E26 with Bluetooth (1100 Lumen)",
         extend: [philips.m.light()],
     },
     {
